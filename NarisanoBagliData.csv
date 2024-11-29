@@ -1,0 +1,25 @@
+﻿verb;object;frequency;category
+taste;success;1116;result
+taste;victory;517;result
+taste;defeat;440;result
+taste;result;220;result
+taste;death;491;experience
+taste;life;371;experience
+taste;way;267;experience
+taste;world;175;experience
+taste;difference;971;feature
+taste;goodness;186;feature
+taste;pleasure;234;feeling
+taste;delight;233;feeling
+taste;joy;226;feeling
+taste;love;196;feeling
+taste;freedom;405;authority
+taste;power;206;authority
+smell;rat;962;mental capacity
+smell;fear;311;feeling
+smell;money;146;result
+smell;victory;94;result
+smell;opportunity;153;opportunity
+smell;trouble;98;experience
+smell;way;59;experience
+smell;difference;98;feature
